@@ -73,7 +73,8 @@ $server = $_SERVER['PHP_SELF'];
         <h2>Pendaftaran Beasiswa</h2>
     </div>
     <div class="container my-5 d-flex justify-content-center align-items-center" style="min-height: 70vh;">
-        <form action="<?php echo $server; ?>" method="post" id="beasiswaForm" class="p-4 bg-light rounded-4 shadow-lg" style="width: 100%; max-width: 800px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);" enctype="multipart/form-data">
+        <form action="<?php echo $server; ?>" method="post" id="beasiswaForm" class="p-4 bg-light rounded-4 shadow-lg" 
+        style="width: 100%; max-width: 800px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);" enctype="multipart/form-data">
             <h4 class="text-left mb-4">Registrasi Beasiswa</h4>
             <div class="mb-3">
                 <label for="nama" class="form-label">Masukkan Nama</label>
@@ -240,7 +241,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (move_uploaded_file($tmp, $path)) {
         $query = "INSERT INTO pendaftaran_beasiswa 
                   (nama, email, no_hp, semester, ipk, beasiswa, upload_berkas, status_ajuan)
-                  VALUES ('$nama', '$email', '$no_hp', '$semester', '$ipk', '$beasiswa', '$nama_baru', 'belum diverifikasi')";
+                  VALUES ('$nama', '$email', '$no_hp', '$semester', '$ipk', '$beasiswa', '$nama_baru', 'Belum diverifikasi')";
 
         if (mysqli_query($conn, $query)) {
             header("Location: daftar.php?status=berhasil");
