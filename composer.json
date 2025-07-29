@@ -1,0 +1,16 @@
+{
+    "name": "pratama/jwd_vsga",
+    "description": "Sistem pendaftaran beasiswa menggunakan PHP procedural, Bootstrap, dan validasi berbasis composer.",
+    "type": "project",
+    "require": {
+        "respect/validation": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pratama Putra",
+            "email": "theperfectpratama.stu@pnc.ac.id"
+        }
+    ],
+    "minimum-stability": "stable"
+}
