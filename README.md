@@ -117,6 +117,6 @@ Full project report available in: `Laporan Sertifikasi Junior Web Developer.pdf`
 
 ## 👨‍💻 Author
 
-**Pratama Putra Purwanto** — D4 Teknik Informatika, Politeknik Negeri Cilacap
+**Pratama Putra Purwanto** — D3 Teknik Informatika, Politeknik Negeri Cilacap
 
 [![GitHub](https://img.shields.io/badge/GitHub-pratama1246-black?logo=github)](https://github.com/pratama1246)
