@@ -1,6 +1,6 @@
 # 🎓 Sistem Pendaftaran Beasiswa
 
-A web-based scholarship registration system built with native PHP and MySQL, developed as a certification project for the **Junior Web Developer (JWD) program by Komdigi (Kementerian Komunikasi dan Digital RI)**. The system allows students to submit scholarship applications along with required supporting documents.
+A web-based scholarship registration system built with native PHP and MySQL, developed as a certification project for the **Junior Web Developer (JWD) program by Komdigi (Kementerian Komunikasi dan Digital RI) and BNSP (Badan Nasional Sertifikasi Profesi)**. The system allows students to submit scholarship applications along with required supporting documents.
 
 ---
 
