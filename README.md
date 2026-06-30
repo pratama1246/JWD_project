@@ -107,12 +107,4 @@ This project uses [Composer](https://getcomposer.org/) to manage PHP dependencie
 
 ---
 
-## 📄 Context
-
-This project was developed as part of the **Junior Web Developer Certification** program held by **Komdigi (Kementerian Komunikasi dan Digital RI)**. It demonstrates core web development competencies including form handling, file uploads, database integration, and dependency management.
-
-Full project report available in: `Laporan Sertifikasi Junior Web Developer.pdf`
-
----
-
 [![GitHub](https://img.shields.io/badge/GitHub-pratama1246-black?logo=github)](https://github.com/pratama1246)
