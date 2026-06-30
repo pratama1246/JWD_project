@@ -107,10 +107,13 @@ This project uses [Composer](https://getcomposer.org/) to manage PHP dependencie
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 [![GitHub](https://img.shields.io/badge/GitHub-pratama1246-black?logo=github)](https://github.com/pratama1246)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](file:///home/pputra/Documents/Project-Web/JWD_project/LICENSE).
